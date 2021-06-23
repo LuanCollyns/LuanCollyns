@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 #### 🧠 seeking to make a difference
+#####My name is Luan Collyns 🇧🇷
+
 [![Linkedin Badge](https://img.shields.io/badge/-Luan%20Collyns-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-collyns-0b313a1a0)](https://www.linkedin.com/in/luan-collyns-0b313a1a0)
 [![Gmail Badge](https://img.shields.io/badge/-luancollyns90@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luancollyns90@gmail.com)](luancollyns90@gmail.com)
