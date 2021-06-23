@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Luan%20Collyns-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-collyns-0b313a1a0)](https://www.linkedin.com/in/luan-collyns-0b313a1a0)
 [![Gmail Badge](https://img.shields.io/badge/-luancollyns90@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luancollyns90@gmail.com)](luancollyns90@gmail.com)
 
+![Snake animation](https://github.com/LuanCollyns/LuanCollyns/blob/output/github-contribution-grid-snake.svg)
+
 <div>
   <a href="https://github.com/lucasgfelix">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuanCollyns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
