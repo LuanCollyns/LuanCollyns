@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 
 
 #### 🧠 seeking to make a difference
-##### My name is Luan Collyns 🇧🇷
+##### My name is Luan Collyns 🇧🇷.
+##### 📍 From São Paulo Capital.
+##### 💻 Intern in Infrastructure Monitoring since 2021.
+##### 💻 @Accenture Brasil.
+##### 💻 huge interest in expanding my knowledge with back end and front.
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luan%20Collyns-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-collyns-0b313a1a0)](https://www.linkedin.com/in/luan-collyns-0b313a1a0)
 [![Gmail Badge](https://img.shields.io/badge/-luancollyns90@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luancollyns90@gmail.com)](luancollyns90@gmail.com)
