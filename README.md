@@ -48,5 +48,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><br><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-![Snake animation](https://github.com/LuanCollyns/LuanCollyns/blob/output/github-contribution-grid-snake.svg)
+
 
