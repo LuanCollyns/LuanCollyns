@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 🧠 Buscando fazer a diferença
+[![Linkedin Badge](https://img.shields.io/badge/-Luan%20FCollyns-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-collyns-0b313a1a0)](https://www.linkedin.com/in/luan-collyns-0b313a1a0) 
