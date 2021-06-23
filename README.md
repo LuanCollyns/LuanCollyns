@@ -33,6 +33,8 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCollyns&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
+![Snake animation](https://github.com/LuanCollyns/LuanCollyns/blob/output/github-contribution-grid-snake.svg)
+  
   ## Languages and tools :hammer_and_wrench:
 
 <p align="center">    
